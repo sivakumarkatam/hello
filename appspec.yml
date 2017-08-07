@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
+  - source: /var/lib/jenkins/workspace/re-deploy/index.html
     destination: /var/www/html/hello
 hooks:
   BeforeInstall:
