@@ -1,0 +1,11 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+
+### Added
+- Antivirus agent
+- NTP server
+- Cloudwatch logs
+- codedeploy agent
+- cloudwatch custom metrics
+- "How do I make a changelog?" section.
