@@ -1,1 +1,2 @@
- sudo apt-get install nginx -y
+ #sudo apt-get install nginx -y
+sudo yum install nginx -y
