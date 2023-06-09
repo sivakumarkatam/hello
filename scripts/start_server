@@ -1,2 +1,3 @@
 #sudo service nginx start
 sudo systemctl start nginx
+sudo yes | cp -rf /var/www/html/index.html/index.html /usr/share/nginx/html/index.html
